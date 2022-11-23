@@ -1,7 +1,7 @@
 # Video Streaming Platform
 try to build a netflix clone UI in react js and Tailwind Css
 
-Live Demo: 
+Live Demo: https://master--statuesque-duckanoo-7dac8d.netlify.app/
 
 
 ![image](https://user-images.githubusercontent.com/74646219/203471062-fa9f7532-9f9b-47a9-9b39-06dcb7e16f82.png)
